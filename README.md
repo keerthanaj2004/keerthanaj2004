@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Front End Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Python or C or Web development
+- 💬 Ask me about Python or C++ or Web development
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/keerthana-j-97197a225/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a crazy Developer
