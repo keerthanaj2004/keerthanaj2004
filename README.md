@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanaj2004&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanaj2004" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
-- 💬 Ask me about **Web Development, Machine Learning, Artificial Intelligence, Programming**
+- 💬 Ask me about **Web Development, Machine Learning, Deep Learning, Artificial Intelligence, Programming**
 
 - 📫 How to reach me **jkeerthana2004@gmail.com**
 
