@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
 <h3 align="center">🚀 A passionate Software Engineer | AI/ML Enthusiast | Full-Stack Developer</h3>
 
-<img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400" alt="keerthanaj2004"/>
----
-
 ### 👩‍💻 About Me  
 - 🌱 Currently exploring **Spring Boot Microservices, NLP, and AI-driven applications**  
 - 💼 Placed at **Anugraha Exceed Pvt Ltd**  
