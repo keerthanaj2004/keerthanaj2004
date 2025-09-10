@@ -2,9 +2,6 @@
 <h3 align="center">🚀 A passionate Software Engineer | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400" alt="keerthanaj2004"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanaj2004&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanaj2004" /> </p>
-
 ---
 
 ### 👩‍💻 About Me  
